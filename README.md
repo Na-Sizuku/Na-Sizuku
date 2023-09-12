@@ -3,6 +3,8 @@
 ![TensorFlow](https://img.shields.io/badge/%E9%9B%AB--Sizuku-NetWorker-50c8e6)
 ![TensorFlow](https://img.shields.io/badge/%E9%9B%AB--Sizuku-Developer-FF69B4)
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Na-Sizuku.Na-Sizuku" alt="visitors"/>
+
 I am a Net Security Engineer a Developer.  
 I am currently studying in the university as a student, doing some development from time to time, and most of the time as a network engineer for security testing.  
 
@@ -19,4 +21,3 @@ workfornacl@outlook.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Na-Sizuku)](https://github.com/Na-Sizuku/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Na-Sizuku.Na-Sizuku&left_color=green&right_color=red)
