@@ -14,3 +14,9 @@ I am currently studying in the university as a student, doing some development f
 ## Contact 联系方式
 workfornacl@outlook.com
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Na-Sizuku&show_icons=true)](https://github.com/Na-Sizuku/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Na-Sizuku)](https://github.com/Na-Sizuku/github-readme-stats)
+
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=Na-Sizuku.Na-Sizuku&left_color=green&right_color=red)
