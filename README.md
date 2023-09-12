@@ -19,4 +19,4 @@ workfornacl@outlook.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Na-Sizuku)](https://github.com/Na-Sizuku/github-readme-stats)
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=Na-Sizuku.Na-Sizuku&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Na-Sizuku.Na-Sizuku&left_color=green&right_color=red)
